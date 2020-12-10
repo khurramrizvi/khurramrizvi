@@ -6,20 +6,47 @@ I really enjoy learning languages and frameworks for fast paced development curr
 * 🤖 Java, XML
 * 📱  Flutter
 * 💻 HTML, JS, CSS 
+* 🎯Dart
 
-# Examples of Work
+## Some of my Recent Work
 <table>
   <tr>
+    <td> Calender App </td>
+    <td> Blog App </td>
+    <td> News App </td>
+    <td> Crypto App </td>
+    <td> Quote App </td>
+  </tr>
+  <tr>
     <td>
-    <img src="https://github.com/khurramrizvi/FlutterCalenderUI/blob/master/misc/GIF.gif" height="320" >
+        <img src="https://github.com/khurramrizvi/FlutterCalenderUI/blob/master/misc/2.png" height="320">
     </td>
    <td>
-    <img src="https://github.com/khurramrizvi/BlogApp/blob/master/ss/GIF-190828_005759.gif" height="320" >
+        <img src="https://github.com/khurramrizvi/BlogApp/blob/master/ss/Screenshot_blog_app_20190828-005417.png" height="320" >
     </td>
     <td>
-    <img src="https://github.com/khurramrizvi/designer_news/blob/master/ss/andro_pre.gif" height="320" >
+        <img src="https://github.com/khurramrizvi/designer_news/blob/master/ss/andro_ss1.png" height="320" >
+    </td>
+    <td>
+        <img src="https://github.com/khurramrizvi/flutter_pro_apps/blob/master/crypto_app/ss/crypto1.png" height="320" >
+    </td>
+    <td>
+        <img src="https://github.com/khurramrizvi/flutter_quote_app/blob/master/ss/ss.jpg" height="320" >
     </td>
   </tr>
   </table>
   
+ <table>
+  <tr> 
+    <td>About me Webpage with Flutter Web</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github.com/khurramrizvi/flutterfolio/blob/master/ss/full.png" width="480" >
+    </td>
+  </tr>
+ </table>
+ 
 ## and many more....
+
+### See you soon 👋👋
