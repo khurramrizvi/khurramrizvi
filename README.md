@@ -11,11 +11,11 @@ I really enjoy learning languages and frameworks for fast paced development curr
 ## Some of my Recent Work
 <table>
   <tr>
-    <td> Calender App </td>
-    <td> Blog App </td>
-    <td> News App </td>
-    <td> Crypto App </td>
-    <td> Quote App </td>
+    <td>📃 Calender App </td>
+    <td>📚 Blog App </td>
+    <td>📰 News App </td>
+    <td>💰 Crypto App </td>
+    <td>💭 Quote App </td>
   </tr>
   <tr>
     <td>
@@ -38,7 +38,7 @@ I really enjoy learning languages and frameworks for fast paced development curr
   
  <table>
   <tr> 
-    <td>About me with Flutter Web</td>
+    <td>🕸️ About me with Flutter Web</td>
   </tr>
   <tr>
     <td>
