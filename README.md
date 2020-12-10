@@ -19,19 +19,19 @@ I really enjoy learning languages and frameworks for fast paced development curr
   </tr>
   <tr>
     <td>
-        <img src="https://github.com/khurramrizvi/FlutterCalenderUI/blob/master/misc/2.png" height="320">
+        <img src="https://github.com/khurramrizvi/FlutterCalenderUI/blob/master/misc/2.png" height="280">
     </td>
    <td>
-        <img src="https://github.com/khurramrizvi/BlogApp/blob/master/ss/Screenshot_blog_app_20190828-005417.png" height="320" >
+        <img src="https://github.com/khurramrizvi/BlogApp/blob/master/ss/Screenshot_blog_app_20190828-005417.png" height="280" >
     </td>
     <td>
-        <img src="https://github.com/khurramrizvi/designer_news/blob/master/ss/andro_ss1.png" height="320" >
+        <img src="https://github.com/khurramrizvi/designer_news/blob/master/ss/andro_ss1.png" height="280" >
     </td>
     <td>
-        <img src="https://github.com/khurramrizvi/flutter_pro_apps/blob/master/crypto_app/ss/crypto1.png" height="320" >
+        <img src="https://github.com/khurramrizvi/flutter_pro_apps/blob/master/crypto_app/ss/crypto1.png" height="280" >
     </td>
     <td>
-        <img src="https://github.com/khurramrizvi/flutter_quote_app/blob/master/ss/ss.jpg" height="320" >
+        <img src="https://github.com/khurramrizvi/flutter_quote_app/blob/master/ss/ss.jpg" height="280" >
     </td>
   </tr>
   </table>
