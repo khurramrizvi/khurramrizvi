@@ -38,7 +38,7 @@ I really enjoy learning languages and frameworks for fast paced development curr
   
  <table>
   <tr> 
-    <td>About me Webpage with Flutter Web</td>
+    <td>About me with Flutter Web</td>
   </tr>
   <tr>
     <td>
