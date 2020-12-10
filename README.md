@@ -49,4 +49,4 @@ I really enjoy learning languages and frameworks for fast paced development curr
  
 ## and many more....
 
-### 🐱‍👤 See you soon 👋👋
+### See you soon 👋👋
