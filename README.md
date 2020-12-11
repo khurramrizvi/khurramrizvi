@@ -1,6 +1,6 @@
 # Khurram Rizvi <img src=https://github.githubassets.com/images/icons/emoji/octocat.png height=30px>
 I'm Khurram from India, and I love developing Apps on Mobile and Web Platform.
-I really enjoy learning languages and frameworks for fast paced development, currently focusing on Flutter for Developing Beautiful and Robust Apps for Multiple Platforms. I am really amused while Implementing Beautiful and Challenging User Interfaces and Apps in general.
+I really enjoy learning languages and frameworks for fast paced development, currently focusing on Flutter for Developing Beautiful and Robust Apps for Multiple Platforms. I am really amused while Implementing Amazing Apps.
 
 ## Skills and Experience
 * 🤖 Java, XML
