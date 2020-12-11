@@ -4,9 +4,9 @@ I really enjoy learning languages and frameworks for fast paced development, cur
 
 ## Skills and Experience
 * 🤖 Java, XML
-* 📱  Flutter
+* 📱 Flutter
 * 💻 HTML, JS, CSS 
-* 🎯Dart
+* 🎯 Dart
 
 ## Some of my Recent Work
 <table>
