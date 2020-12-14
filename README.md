@@ -11,27 +11,27 @@ I really enjoy learning languages and frameworks for fast paced development, cur
 ## Some of my Recent Work
 <table>
   <tr>
-    <td>📃 Calender App </td>
-    <td>📚 Blog App </td>
-    <td>📰 News App </td>
-    <td>💰 Crypto App </td>
-    <td>💭 Quote App </td>
+    <td>📃<a href='https://github.com/khurramrizvi/FlutterCalenderUI'> Calender App </td>
+    <td>📚<a href='https://github.com/khurramrizvi/BlogApp'> Blog App </td>
+    <td>📰<a href='https://github.com/khurramrizvi/designer_news'> News App </td>
+    <td>💰<a href='https://github.com/khurramrizvi/flutter_pro_apps/tree/master/crypto_app'> Crypto App </td>
+    <td>💭<a href='https://github.com/khurramrizvi/flutter_quote_app'> Quote App </td>
   </tr>
   <tr>
     <td>
-        <img src="https://github.com/khurramrizvi/FlutterCalenderUI/blob/master/misc/2.png" height="280">
+        <img src="https://github.com/khurramrizvi/FlutterCalenderUI/blob/master/misc/2.png" height="250">
     </td>
    <td>
-        <img src="https://github.com/khurramrizvi/BlogApp/blob/master/ss/Screenshot_blog_app_20190828-005417.png" height="280" >
+        <img src="https://github.com/khurramrizvi/BlogApp/blob/master/ss/Screenshot_blog_app_20190828-005417.png" height="250" >
     </td>
     <td>
-        <img src="https://github.com/khurramrizvi/designer_news/blob/master/ss/andro_ss1.png" height="280" >
+        <img src="https://github.com/khurramrizvi/designer_news/blob/master/ss/andro_ss1.png" height="250" >
     </td>
     <td>
-        <img src="https://github.com/khurramrizvi/flutter_pro_apps/blob/master/crypto_app/ss/crypto1.png" height="280" >
+        <img src="https://github.com/khurramrizvi/flutter_pro_apps/blob/master/crypto_app/ss/crypto1.png" height="250" >
     </td>
     <td>
-        <img src="https://github.com/khurramrizvi/flutter_quote_app/blob/master/ss/ss.jpg" height="280" >
+        <img src="https://github.com/khurramrizvi/flutter_quote_app/blob/master/ss/ss.jpg" height="250" >
     </td>
   </tr>
   </table>
@@ -47,6 +47,6 @@ I really enjoy learning languages and frameworks for fast paced development, cur
   </tr>
  </table>
  
-## and many more....
+## <a href='https://github.com/khurramrizvi?tab=repositories'>and many more....
 
 ### See you soon 👋👋
