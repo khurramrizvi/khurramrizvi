@@ -99,5 +99,5 @@ I really enjoy learning languages and frameworks for fast paced development, cur
  
 ## <a href='https://github.com/khurramrizvi?tab=repositories'>and many more....
 
-### Hey Explorer 👋👋 
+### Hey Explorer 👋
 ### You are AWESOME, just believe in YOURSELF 🔥🔥
