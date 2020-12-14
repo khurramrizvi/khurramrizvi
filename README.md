@@ -96,7 +96,8 @@ I really enjoy learning languages and frameworks for fast paced development, cur
 </details> 
  
  
- 
 ## <a href='https://github.com/khurramrizvi?tab=repositories'>and many more....
 
-### You are AWESOME, just believe in YOURSELF 🔥🔥
+### You are AWESOME, just believe in YOURSELF 🔥🔥 
+
+![](https://komarev.com/ghpvc/?username=khurramrizvi&color=blueviolet&style=flat-square)
