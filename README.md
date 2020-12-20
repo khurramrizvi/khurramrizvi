@@ -38,7 +38,7 @@ I really enjoy learning languages and frameworks for fast paced development, cur
   
  <table>
   <tr> 
-    <td>🕸️ About me with Flutter Web</td>
+    <td>🕸️<a href='https://github.com/khurramrizvi/flutterfolio'> About me with Flutter Web</td>
   </tr>
   <tr>
     <td>
